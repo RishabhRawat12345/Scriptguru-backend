@@ -5,6 +5,7 @@
   "type": "commonjs",
  "scripts": {
   "dev": "nodemon Server.js",
+   "start": "node Server.js",
   "build": "echo 'No build step needed for backend'"
 },
   "author": "",
